@@ -23,10 +23,10 @@ A powerful web application for designing and optimizing city bus networks with b
 ## 🛠 Tech Stack
 
 - **Frontend**: React
-- **Backend**: Python with FastAPI
+- **Backend**: Express.js/Node.js/Fastify.js /  Nest.js
 - **Database**: PostgreSQL
 - **Real-Time & Mapping**: Socket.IO for live updates and Mapbox GL JS for an interactive map interface.  
-- **AI & Data Processing**: Python
+- **AI & Data Processing**: Python (optional)
 
 ## 🤖 AI FEATURES
 
